@@ -1,0 +1,59 @@
+.div1{
+    margin: 50px;
+    margin-left: 50%;
+}
+#button1{
+    color: blue;
+}
+#button2{
+    color: blue;
+}
+#button3{
+    background-color: green;
+    color: white;
+    box-shadow: none;
+    padding: 10px;
+    width: 150px;
+}
+.div2{
+    margin: 50px;
+    margin-left: 50%;
+}
+#button4{
+    background: hsl(120, 1%, 16%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+  }
+  .front{
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: rgb(4, 136, 37);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  #button4:active .front {
+    transform: translateY(-2px);
+  }
+  .div3{
+    margin: 50px;
+    margin-left: 50%;
+  }
+.div4{
+    margin: 50px;
+    margin-left: 50%;
+    }
+#button5{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 30px;
+    width: 60px;
+    font-size: large;
+}
