@@ -1,0 +1,94 @@
+#button1{
+    /* display: block; */
+    background-color: rgb(255, 216, 20);
+    border-radius: 1cm;
+    border: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-bottom: 20px;
+
+}
+
+#button2{
+    /* display: block; */
+    color: white;
+    font-size: 16px;
+    font-weight:bold;
+    background-color:rgb(121,82,179);
+    border: none;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    padding-left: 20px ;
+    padding-right: 20px ;
+    border-radius: 20px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+#button3{
+    /* display: block; */
+    font-size: 16px;
+    background-color:white;
+    color:rgb(108,117,125);
+    font-weight: bold;
+    border: 2px solid #6C757D;
+     border-radius: 20px; 
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    padding-left: 25px ;
+    padding-right: 25px ;
+    
+}
+#button4{
+    /* display: block; */
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    border-radius: 10px;
+}
+
+#button5{
+    /* display: block; */
+    color: white;
+    font-size: 16px;
+    font-weight:bold;
+    background-color:rgb(10,102, 194);
+    border: none;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    padding-left: 20px ;
+    padding-right: 20px ;
+    border-radius: 20px;
+    margin: 20px;
+}
+#button6{
+    /* display: block; */
+    font-size: 16px;
+    background-color: white;
+    color:rgb(0, 120, 255);
+    font-weight: bold;
+    border: 2px solid #3498db;
+     border-radius: 20px; 
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    padding-left: 25px ;
+    padding-right: 25px ;
+    
+}
+#button7{
+    /* display: block; */
+    color: white;
+    background-color: black;
+    border: none;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    padding-left: 30px ;
+
+    padding-right: 30px ;
+}
